@@ -4,3 +4,4 @@
 ## 📊 Dataset
 Available on Kaggle:
 https://www.kaggle.com/datasets/mdmahbubenoor/bengali-openslr-noisy-data-for-speech-enhancement
+This is the implementation of this paper -> https://ieeexplore.ieee.org/document/9660563 [Investigation of a Single-Channel Frequency-Domain Speech Enhancement Network to Improve End-to-End Bengali Automatic Speech Recognition Under Unseen Noisy Conditions]
